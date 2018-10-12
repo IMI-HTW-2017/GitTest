@@ -2,7 +2,6 @@
 
 * Brot
 * Butter
-* Belag
 * Obst
 * TK-Pizza
 * Snickers
