@@ -5,3 +5,5 @@
 * Belag
 * Obst
 * TK-Pizza
+* Snickers
+* Schoko-Cookies
