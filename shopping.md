@@ -5,3 +5,4 @@
 * Belag
 * Obst
 * TK-Pizza
+* Klopapier
