@@ -6,7 +6,3 @@
 * Obst
 * TK-Pizza
 * Snickers
-* Schoko-Cookies
-* Klopapier
-* O-Saft
-* Schlemmerfilet
